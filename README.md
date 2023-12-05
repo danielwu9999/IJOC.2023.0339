@@ -1,2 +1,2 @@
 # IJOC.2023.0339
-Exact Method for Production Hub Location Problem
+This github contains three main folders for the Data, Code, and Results for the paper titled "Exact Method for Production Hub Location Problem". The detailed explanation on them are given in the corresponding folder.
