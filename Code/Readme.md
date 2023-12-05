@@ -1,1 +1,1 @@
-
+This folder provides the code examples of various CPLEX, Benders decomposition, and hybrid dynamic programming and Benders decomposition (DPBD) algorithms. For the code in each folder, run the call*.gms file, it then executes the correspoding algorithm code for various test instances. Specifically, the folder "DPBD Various Scenarios" runs various scenarios of DPBD algorithms described in Table 4 in the paper.
